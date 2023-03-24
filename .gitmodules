@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "genBaRcode"]
+	path = genBaRcode
+	url = https://github.com/cran/genBaRcode
+	shallow = true
+	registered = true
